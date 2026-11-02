@@ -32,4 +32,4 @@ modules:
     sources:
       - type: archive
         url: https://github.com/tazihad/bengal-download-manager/archive/refs/tags/v0.3.13.tar.gz
-        sha256: 375cb547eca7a9f762a0ca360b3f50a709fdf8db6db6931cac3af43b1f0ee71e
+        sha256: 8c64610bc7ccb9f218eba98999e5b785dcb34da3b9ece75639aa345d9aab3387
