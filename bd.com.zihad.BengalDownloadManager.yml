@@ -31,5 +31,5 @@ modules:
     buildsystem: cmake
     sources:
       - type: archive
-        url: https://github.com/tazihad/bengal-download-manager/archive/refs/tags/v0.3.22.tar.gz
-        sha256: 1f1d65521b21357186ec5a4e1c5a3ad55ac3e7825e4d13dd22b7f4c2c0b95987
+        url: https://github.com/tazihad/bengal-download-manager/archive/refs/tags/v0.3.23.tar.gz
+        sha256: cb59c22f1eaaf364229d23eed7a560135a8c24b9677b283c79cce359e9d32b60
